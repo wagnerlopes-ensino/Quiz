@@ -1,0 +1,24 @@
+[
+    {
+        "karaoke_video": "https://www.youtube.com/watch?v=9Lxm0iSnKNc",
+        "complete_video": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
+        "first_clue": "",
+        "second_clue": "",
+        "third_clue": "",
+        "correct_answer": "Queen - Bohemian Rhapsody",
+        "first_wrong_answer": "",
+        "second_wrong_answer": "",
+        "third_wrong_answer": ""
+    },
+    {
+        "karaoke_video": "",
+        "complete_video": "",
+        "first_clue": "",
+        "second_clue": "",
+        "third_clue": "",
+        "correct_answer": "",
+        "first_wrong_answer": "",
+        "second_wrong_answer": "",
+        "third_wrong_answer": ""
+    }
+]
